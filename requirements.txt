@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+plotly.express
+statsmodels.tsa.statespace.sarimax
+statsmodels.stats.diagnostic
+statsmodels.stats.stattools
+chardet
